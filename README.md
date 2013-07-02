@@ -15,7 +15,7 @@ The Application does not require such services
 The application was set with a requirement for SDK version 17. although it can be compiled to work on older versions.
 
 6)Screenshots
-In the folder with this text file there XX of images. 
+In the folder with this text file there are five images. 
   1)The first image (FirstTab) is for the Food Tab with the different predefined images available for the user. 
   2)The second image (FoodClicked) shows when the user have selected an item from the list. 
   3)The third image (ActivityTab) shows the available activities that the user can select. 
